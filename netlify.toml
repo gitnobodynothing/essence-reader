@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = ".svelte-kit/netlify/client"
+
+[functions]
+  directory = ".svelte-kit/netlify/server"
