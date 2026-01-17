@@ -35,13 +35,13 @@
 
 <style>
 	#rightbar {
-		margin-right: 1%;
+		margin-right: 50%;
 		text-align: right;
 		min-width: max-content;
 	}
 
 	#leftbar {
-		margin-left: 1%;
+		margin-left: 50%;
 		text-align: left;
 		min-width: max-content;
 	}
