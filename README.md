@@ -4,4 +4,4 @@
 Essence Reader is a web app that allows you to read ebooks in the epub format directly in the browser.
 Written with Svelte and TypeScript.
 
-Try it out: [Essence Reader](https://essence-reader.pages.dev/).
+Try it out: [Essence Reader](https://essencereader.netlify.app/).
